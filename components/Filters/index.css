@@ -1,0 +1,17 @@
+.options {
+  width: 115px;
+  height: 30px;
+  margin-top: 5px;
+  outline: none;
+  padding: 3px;
+  font-weight: 600;
+  color: #555555;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.options:hover {
+  background: #e0e0e0;
+  font-weight: 700;
+  color: black;
+}
